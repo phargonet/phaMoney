@@ -2,6 +2,10 @@
 /**
  * The implementation of the dollars currency.
  *
+ * @author Vadim Kruchkov <long@phargo.net>
+ * @link http://www.phargo.net/
+ * @copyright Copyright &copy; 2011 phArgo Software
+ * @license GPL & MIT
  */
 class usdCurrency implements iCurrency {
 
